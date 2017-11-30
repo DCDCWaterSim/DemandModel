@@ -1,0 +1,8 @@
+aDD NEW FIELDS
+
+Number of HH moved, done tested
+Net HH Per Building Type, done tested
+Change in Outdoor Demand
+Change in Out per HH Moved
+PES Cost (New Agents weighted), done tested
+Change in Out per Cost

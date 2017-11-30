@@ -1,0 +1,17 @@
+Assumptions
+
+1) Household chacrterictics are a function of house hold, not what the live in.
+2) Each household lives in one unit
+3) Under the base housing types, the household characterictics define each household.
+4) As housholds move from one unit type to another, the houshold characterictics do not change, ie the stay the same in the new buidling type as they were in the old housing type, 
+   such as household size.
+5) There is a cost for moving future units from one building type to another, political,  economic, social.  This cost have not been quantified. We call this the PES Cost
+5A) People chose building type based on cost and location.  if it is assumed that location factors remain the same then offering othger building types in same location have political and social costs.  
+    If it is assumed that denser options have economic costs, then offering more building types will have economic implications
+	PES_Costs will be a weighted estimate of these relative costs, ie, moving HH to one building type may have reltively higher PES costs that moving to another.  NO movement wiull be a cost of 0.
+
+   Strategic Insights
+
+   1) Moving units from SMF to WMF may result in increasded water use
+   1) Short shifts from one building type to another are more PSE Cost efficient in terms of reduced demand.
+

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenverDemandModel_v1", "DenverDemandModel_v1\DenverDemandModel_v1.csproj", "{52164B06-741E-4041-B2CB-F58E647A372D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDenverModelV1", "TestDenverModelV1\TestDenverModelV1.csproj", "{1D7BFCEA-6F09-4646-A7E3-84286E6F5C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniDb2", "..\..\UniDb2\Projects\UniDb2\UniDb2.csproj", "{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52164B06-741E-4041-B2CB-F58E647A372D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52164B06-741E-4041-B2CB-F58E647A372D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52164B06-741E-4041-B2CB-F58E647A372D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52164B06-741E-4041-B2CB-F58E647A372D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D7BFCEA-6F09-4646-A7E3-84286E6F5C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7BFCEA-6F09-4646-A7E3-84286E6F5C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7BFCEA-6F09-4646-A7E3-84286E6F5C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7BFCEA-6F09-4646-A7E3-84286E6F5C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
